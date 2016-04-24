@@ -65,13 +65,20 @@ a. If any of the user clicks on ‘Play Again’ button, then the game would res
 
 
 Concepts of Operating System in ‘Tic Tac Toe’ :
+
 Following are the OS concepts that have been used in the functionality of this project:
-Socket
-Server Socket
-Threads
-Locking
+
+	Socket
+
+	Server Socket
+
+	Threads
+
+	Locking
+
 
 
 Tools Used:
+
 For creating this project, we have used Android Studio software package provided by google.
 
