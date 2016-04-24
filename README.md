@@ -6,7 +6,8 @@ Tic-tac-toe (also known as Noughts and crosses or Xs and Os) is generally a pape
 The following example game is won by the first player, X:
 
 
-Background: 
+Background:
+
 The board is made up of a 3x3 grid of squares. This means that both the players collectively can fill at most 9 entries.
 Traditionally, the first player goes with "X" and the second goes with “0”. Once the game has started the players will not be allowed to change the signs.
 These symbols will be placed on the table, in the attempt to have three of them in a row or a column or along a square diagonal.
